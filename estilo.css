@@ -1,0 +1,133 @@
+body{
+    margin-left: 0%;
+    margin-right: 0%; 
+}
+
+#Arriba{
+    display: flex;
+    background-color: rgb(18, 255, 125);
+    margin-top: 2.5rem;
+    color: white;
+    justify-content: space-between;
+}
+#Arriba>#num{
+    display: flex;  
+}
+img{
+    width: 3rem;
+
+}
+#Esmeralda{
+    width: 5rem;
+    height: 5rem;
+}
+#Medio{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+    background-color: white;
+    background-color: rgb(18, 255, 125);
+}
+#bot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#Abajo{
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5rem;
+}
+#Abajo>p>a>img{
+    width: 13rem;
+    height: 23rem;
+    border-radius: 10px;
+    
+}
+#suc{
+    background-color: white;
+}
+#Abajo>p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Principal2{
+    border: 2px solid black;
+    width: 15rem;
+    height: 25rem;
+    background-color: rgb(133, 241, 182);
+}
+
+#reg{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+#Regis{
+    color: aqua;
+}
+#busa{
+    display: flex;
+    align-items: center;
+}
+
+#fp{
+    background-color:rgb(18, 255, 125) ;
+    display: flex;
+    justify-content: center;
+   
+}
+#ima{
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 50%;
+    background-color:rgb(18, 255, 125) ;
+    width: 30rem;
+    padding-left: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#ima>img{
+    border-radius: 50%;
+}
+#im{
+    display: flex;
+    justify-content: space-around; 
+    width: 30rem;
+    padding-left: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#fp>div>p{
+    color: white;
+}
+#b{
+    
+    background-color:rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+}
+#pie{
+    display: flex;
+    justify-content: flex-end;
+    background-color:rgb(18, 255, 125) ;
+}
+.venta{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color:rgb(194, 238, 214);
+    padding-top: 15px;
+}
+.venta>div>img{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50px;
+}
+.venta>div{
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+   
+
+}
